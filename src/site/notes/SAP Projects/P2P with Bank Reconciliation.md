@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sap-projects/p2-p-with-bank-reconciliation/"}
 ---
 
-## Made by Sarang Kawale | SAP FICO | B. Com |
+## Made by Sarang Kawale | SAP FICO | B. 
 Pune, MH |
 skawaley22k@gmail.com |
 Linked In : www.linkedin.com/in/sarang-kawale-b96047317
